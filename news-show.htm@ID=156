@@ -1,0 +1,506 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link href="css/chisiho2013.css" type="text/css" rel="stylesheet" />
+<script src="js/chisiho2012.js" type="text/javascript"></script>
+<link href="css/csswwww.css" rel="stylesheet" type="text/css">
+<script src="js/yu.js" type="text/javascript"></script>
+<script src="js/tb.js" type="text/javascript"></script>
+<title>湿球温度表 > 上海万享冷却设备有限公司</title>
+<META NAME="RATING" CONTENT="General">
+<META NAME="RESOURCE-TYPE" CONTENT="Good WebSites">
+</head>
+
+<body>
+<!--head-->
+<div style="width:100%; height:111px; margin:0px auto; background:url(images/main_02.jpg); clear:both;">
+<div style="width:1002px; height:68px; margin:0px auto;" align="right"><img src="images/main_04.jpg" border="0" height="68" usemap="#Map" />
+<map name="Map" id="Map">
+  <area shape="rect" coords="8,10,333,63" href="default.htm" title="上海万享冷却设备有限公司" />
+<area shape="rect" coords="889,34,914,48" href="default.htm" title="中文" />
+<area shape="rect" coords="918,34,940,49" href="../wx-cooling.com/default.htm" target="_blank" title="English" />
+</map></div>
+<div style="width:1002px; height:39px; margin:0px auto;">
+<form id="form1" name="form1" method="post" style="margin:0px;" action="productlist.asp?action=search">
+<div style="width:814px; height:39px; float:left;">
+
+<style type="text/css">
+
+#nav, #nav ul {
+  list-style:none;
+  line-height:16px; /* 一级菜单高 */
+  font-weight: bold;
+  padding:0px;
+  margin:0px;
+  border-right: 0px;
+  
+      background-color:#0e4e81;
+  z-index:100;
+}
+#nav ul{
+  border-top:0px;
+  
+  border-right:0px;
+
+  
+}
+#nav a {
+cursor:pointer;
+  display:block;
+  text-decoration:none;
+  text-align:right;
+}
+#nav a:hover{color:#c5161d;
+cursor:pointer;
+ font-weight: bold;} /* 所有 a:hover 字体样式 */
+#nav li {float:left; cursor:pointer;}
+#nav li ul { /* 二级弹出位 */
+  position:absolute;
+  margin:0px 0px 0px -1px;
+  padding:0;
+  left:-9999em;
+  width:182px;
+  
+  font-weight:normal;
+  background:#FFFFFF;
+
+
+}
+#nav li ul a {
+color:#333333;
+  width:167px; /* 二级菜单宽 */
+  padding-left:13px;
+  line-height:25px; /* 二级菜单高 */
+  border-bottom:1px solid #e7e6e6;
+  border-left:1px solid #e7e6e6;
+  border-right:1px solid #e7e6e6;
+  text-align:left;
+  
+}
+#nav li ul ul {margin:-27px 0px 0px  182px;} /* 三级弹出位 */
+#nav li:hover ul ul,#nav li.sfhover ul ul{left:-9999em;}
+#nav li:hover ul,#nav li li:hover ul,#nav li.sfhover ul, #nav li li.sfhover ul{left:auto; border-top:1px solid #e7e6e6; } /* 所有弹出菜单自动左边距 */
+#nav li:hover, #nav li.sfhover {background:#e6e6e6;} /* 所有悬浮样式 */
+
+.menu {
+	font-size: 14px;
+	color: #000000;
+	cursor:pointer;
+}
+.menus {
+	font-size: 14px;
+	background:url(images/menus.jpg);
+	cursor:pointer;
+	color: #FFFFFF;
+}
+-->
+
+
+</style>
+
+<script language="JavaScript1.2">
+
+function makevisible(cur,which){
+
+if (which==0)
+
+cur.filters.alpha.opacity=0
+
+else
+
+cur.filters.alpha.opacity=100
+
+}
+
+</script>
+
+
+<ul id="nav">
+  <li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='./'">首页</td>
+      </tr>
+    </table>
+	
+  </li>
+  
+  
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+	
+  </li>
+  
+  <li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='aboutus.asp'">关于万享</td>
+      </tr>
+    </table>
+	<ul>
+	
+      <li><a href="aboutus.asp@id=124" title="CTI认证">CTI认证</a></li>
+     
+      <li><a href="aboutus.asp@id=119" title="公司简介">公司简介</a></li>
+     
+      <li><a href="aboutus.asp@id=117" title="企业文化">企业文化</a></li>
+     
+      <li><a href="aboutus.asp@id=121" title="人才战略">人才战略</a></li>
+     
+	 
+    </ul>
+  </li>
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+	
+  </li>
+
+  <li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='products.asp'">产品中心</td>
+      </tr>
+    </table>
+	<ul>
+      
+      <li style="background-image:url(Images/sanjiap.gif); background-position:right;  background-repeat:no-repeat;"><a href="productlist.asp@bid=139" title="闭式冷却塔">闭式冷却塔</a>
+         
+      </li>
+      
+      <li style="background-image:url(Images/sanjiap.gif); background-position:right;  background-repeat:no-repeat;"><a href="productlist.asp@bid=140" title="开式冷却塔">开式冷却塔</a>
+         
+      </li>
+      
+      <li style="background-image:url(Images/sanjiap.gif); background-position:right;  background-repeat:no-repeat;"><a href="productlist.asp@bid=141" title="蒸发式冷凝器">蒸发式冷凝器</a>
+         
+      </li>
+      
+      <li style="background-image:url(Images/sanjiap.gif); background-position:right;  background-repeat:no-repeat;"><a href="productlist.asp@bid=145" title="换热机组">换热机组</a>
+         
+      </li>
+      
+    </ul>
+	
+  </li>
+  
+  
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+
+  </li>
+<li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='cases.asp'">工程案例</td>
+      </tr>
+    </table>
+		<ul>
+      
+      <li style="background-image:url(Images/sanjiap.gif); background-position:right;  background-repeat:no-repeat;"><a href="caseslist.asp@bid=139" title="工业领域">工业领域</a>
+         
+      </li>
+      
+      <li style="background-image:url(Images/sanjiap.gif); background-position:right;  background-repeat:no-repeat;"><a href="caseslist.asp@bid=140" title="民用领域">民用领域</a>
+         
+      </li>
+      
+    </ul>
+  </li>
+  
+  
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+	
+  </li>
+  
+  
+<li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='service.asp'">服务与支持</td>
+      </tr>
+    </table>
+	<ul>
+	
+      <li><a href="service.asp@id=126" title="售后服务流程">售后服务流程</a></li>
+     
+      <li><a href="service.asp@id=125" title="系统安装服务">系统安装服务</a></li>
+     
+      <li><a href="service.asp@id=124" title="故障维修">故障维修</a></li>
+     
+      <li><a href="service.asp@id=128" title="技术交流">技术交流</a></li>
+     
+      <li><a href="service.asp@id=129" title="售后投诉电话和售后服务电话">售后投诉电话和售后服务电话</a></li>
+     
+	 
+    </ul>
+  </li>
+  
+  
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+	
+  </li>
+  
+  
+   <li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menus" onmouseover="this.className='menus'" onmouseout="this.className='menus'" align="center" onclick="window.location='news.asp'">新闻中心</td>
+      </tr>
+    </table>
+	
+  </li>
+  
+  
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+	
+  </li> 
+  
+  
+<li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='joinus.asp'">招贤纳才</td>
+      </tr>
+    </table>
+	<ul>
+	
+      <li><a href="joinus.asp@id=119" title="销售人员">销售人员</a></li>
+     
+      <li><a href="joinus.asp@id=121" title="财务人员">财务人员</a></li>
+     
+      <li><a href="joinus.asp@id=122" title="技术人员">技术人员</a></li>
+     
+      <li><a href="joinus.asp@id=123" title="售后人员">售后人员</a></li>
+     
+	 
+    </ul>
+  </li>
+  
+  
+    <li>
+    <table width="7" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><img src="images/main_13.jpg" /></td>
+      </tr>
+    </table>
+	
+  </li>
+     
+	 
+	 
+	 
+	 <li>
+    <table width="85" height="39" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="menu" onmouseover="this.className='menus'" onmouseout="this.className='menu'" align="center" onclick="window.location='contactus.asp'">联系我们</td>
+      </tr>
+    </table>
+	
+  </li>
+  
+
+</ul>
+
+</div>
+
+<div style="width:150px; padding-left:3px; height:30px; padding-top:9px; background:url(images/main_10.jpg); float:left;">
+<input name="cxz" type="text" id="cxz" style="border:none; height:20px; padding-left:5px; width:120px; color:#9d9d9d; font-family:Arial, Helvetica, sans-serif; background:none; font-size:12px;" onClick="emp(this)" value="输入产品关键词" />
+</div>
+<div style="width:35px; height:39px; float:right;">
+  <input type="image" name="imageField" src="images/main_11.jpg" onClick="return yw();" />
+</div>
+</form>
+</div>
+</div>
+<!--end head-->
+
+
+<!--banner-->
+<div style="width:1002px; height:250px; border-top:#FFFFFF solid 1px; margin:0px auto;">
+
+<div style="width:1002px; height:240px; margin:0px auto;"><img src="UploadedFiles/20131231475714071.jpg" border="0" width="1002" height="240"></div>
+
+</div>
+<!--end banner-->
+
+
+<!--main-->
+<div style="width:1002px; height:auto; margin:0px auto;">
+<!--left-->
+<div style="width:232px; height:auto; float:left;">
+
+<!--01-->
+<div style="padding-bottom:12px;">
+<div class="STYLE1" style="width:190px; padding-left:18px; height:27px; padding-top:12px; background:url(images/sub_03.jpg);">产品列表</div>
+<div style="width:208px; min-height:260px; height:auto; background:url(images/sub_09.jpg); border-bottom:#b8b8b8 solid 1px;">
+
+
+<div style="width:188px; padding-left:20px; height:20px; padding-top:8px; margin:0px auto; border-bottom:#d9d9d9 solid 1px;" onmouseover="this.className='left_bg'" onmouseout="this.className=''" onclick="window.location='productlist.asp@bid=139'"><img src="images/sub_13.jpg" /> <a href="productlist.asp@bid=139" title="闭式冷却塔">闭式冷却塔</a></div>
+
+<div style="width:188px; padding-left:20px; height:20px; padding-top:8px; margin:0px auto; border-bottom:#d9d9d9 solid 1px;" onmouseover="this.className='left_bg'" onmouseout="this.className=''" onclick="window.location='productlist.asp@bid=140'"><img src="images/sub_13.jpg" /> <a href="productlist.asp@bid=140" title="开式冷却塔">开式冷却塔</a></div>
+
+<div style="width:188px; padding-left:20px; height:20px; padding-top:8px; margin:0px auto; border-bottom:#d9d9d9 solid 1px;" onmouseover="this.className='left_bg'" onmouseout="this.className=''" onclick="window.location='productlist.asp@bid=141'"><img src="images/sub_13.jpg" /> <a href="productlist.asp@bid=141" title="蒸发式冷凝器">蒸发式冷凝器</a></div>
+
+<div style="width:188px; padding-left:20px; height:20px; padding-top:8px; margin:0px auto; border-bottom:#d9d9d9 solid 1px;" onmouseover="this.className='left_bg'" onmouseout="this.className=''" onclick="window.location='productlist.asp@bid=145'"><img src="images/sub_13.jpg" /> <a href="productlist.asp@bid=145" title="换热机组">换热机组</a></div>
+
+</div>
+</div>
+<!--end 01-->
+
+
+<!--02-->
+<div style="padding-bottom:12px;">
+<div class="STYLE1" style="width:190px; padding-left:18px; height:27px; padding-top:12px; background:url(images/sub_03.jpg);">工程案例</div>
+<div style="width:208px; height:290px; padding-bottom:12px; padding-top:12px; background:url(images/sub_09.jpg); border-bottom:#b8b8b8 solid 1px;">
+
+
+
+<div id="rolllink" style="OVERFLOW: hidden; WIDTH: 180px; padding-left:5px; HEIGHT: 290px; margin:0px auto;">
+<div id="rolllink1">
+
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2954"><img src="UploadedFiles/2015122115472289970.jpg" width="180" height="118" border="0" alt="安吉商会" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2954">安吉商会</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2953"><img src="UploadedFiles/201491716595193932.jpg" width="180" height="118" border="0" alt="中山公园龙之梦" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2953">中山公园龙之梦</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2952"><img src="UploadedFiles/2013103114351272561.jpg" width="180" height="118" border="0" alt="安泰科技" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2952">安泰科技</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2951"><img src="UploadedFiles/2013103114141825456.jpg" width="180" height="118" border="0" alt="桂林“一院两馆”" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2951">桂林“一院两馆”</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2923"><img src="UploadedFiles/20132114483332393.jpg" width="180" height="118" border="0" alt="上汽集团" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2923">上汽集团</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2933"><img src="UploadedFiles/20132114445661385.jpg" width="180" height="118" border="0" alt="振华港机" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2933">振华港机</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2926"><img src="UploadedFiles/20132111115117344.jpg" width="180" height="118" border="0" alt="宝钢德胜" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2926">宝钢德胜</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2924"><img src="UploadedFiles/201313115281711048.jpg" width="180" height="118" border="0" alt="康乐保" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2924">康乐保</a></div>
+
+<div style="width:180px; height:118px; margin:0px auto;"><a href="cases-show.asp@id=2928"><img src="UploadedFiles/20132111334554819.jpg" width="180" height="118" border="0" alt="广东富华" /></a></div>
+<div align="center" class="STYLE2" style="width:180px; height:20px; padding-top:8px; margin:0px auto;"><a href="cases-show.asp@id=2928">广东富华</a></div>
+
+</div>
+<div id="rolllink2"></div>
+</div>
+<SCRIPT language="javascript" type="text/javascript">
+var rollspeed=40
+rolllink2.innerHTML=rolllink1.innerHTML
+function Marquee(){
+if(rolllink2.offsetTop-rolllink.scrollTop<=0)
+rolllink.scrollTop-=rolllink1.offsetHeight
+else{
+rolllink.scrollTop++
+}
+}
+var MyMar=setInterval(Marquee,rollspeed)
+rolllink.onmouseover=function() {clearInterval(MyMar)}
+rolllink.onmouseout=function() {MyMar=setInterval(Marquee,rollspeed)}// JavaScript Document
+</SCRIPT>
+
+
+
+
+</div>
+</div>
+<!--end 02-->
+
+</div>
+<!--end left-->
+
+
+
+
+<!--right-->
+<div style="width:770px; height:auto; float:right;">
+
+<div style="width:770px; height:25px; padding-top:12px; margin:0px auto; border-bottom:#dddddd solid 1px;"><img src="images/home_icon.gif" /> 您当前位置: <a href="default.htm">首页</a> > <a href="news.asp">新闻中心</a></div>
+<div style="width:770px; height:auto; margin:0px auto; border-bottom:#dddddd solid 1px;"><div class="STYLE1" style="width:600px; height:27px; padding-top:12px; float:left;">新闻中心</div>
+<div style="width:170px; height:34px; padding-top:5px; float:right;" align="right"><img src="images/sub_07.jpg" /></div></div>
+
+
+<div style="width:720px; min-height:600px; height:auto; padding-top:12px; line-height:25px; margin:0px auto;">
+
+
+<div style="width:720px; height:36px; padding-top:8px; margin:0px auto; color:#c12b08; font-weight:bold; font-size:24px;" align="center">湿球温度表</div>
+
+
+<div style="width:720px; height:auto; line-height:22px; padding-top:10px; margin:0px auto;">
+<strong style="color:#f8a515; font-size:12px;">详细内容：</strong><br />
+<table border="0" cellspacing="0" cellpadding="0" width="576" height="1555"><tr height="36"><td class="xl22" height="36" width="216" colspan="3"><strong><font size="2" face="宋体">湿球温度表</font></strong></td><td class="xl23" width="72"><strong><font size="2" face="宋体" /></strong></td><td class="xl23" width="72"><strong><font size="2" face="宋体" /></strong></td><td class="xl23" width="72"><strong><font size="2" face="宋体" /></strong></td><td class="xl23" width="72"><strong><font size="2" face="宋体" /></strong></td><td class="xl23" width="72"><strong><font size="2" face="宋体" /></strong></td></tr><tr height="19"><td class="xl24" height="19" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">北京市</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">满洲里</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">平凉</font></td><td class="xl26" width="72"><font size="2" face="宋体">21</font></td><td class="xl26" width="72"><font size="2" face="宋体">莱阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">北京</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">二连浩特</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">天水</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">兖州</font></td><td class="xl28" width="72"><font size="2" face="宋体">27.4</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">密云</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.1</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">辽宁省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">武都</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">泰安</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.9</font></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">天津市</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">沈阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">张掖</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">淄博</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">天津</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">本溪</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.4</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">宁夏</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">泰山</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.1</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">武清</font></td><td class="xl26" width="72"><font size="2" face="宋体">27</font></td><td class="xl26" width="72"><font size="2" face="宋体">锦州</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">银川</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.2</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">江苏省</font></strong></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">塘沽</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">营口</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">盐池</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">南京</font></td><td class="xl28" width="72"><font size="2" face="宋体">28.5</font></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">上海市</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">丹东</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">石咀山</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">徐州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.1</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">上海</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">大连</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">固原</font></td><td class="xl26" width="72"><font size="2" face="宋体">18.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">连云港</font></td><td class="xl28" width="72"><font size="2" face="宋体">27.9</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">崇明</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">抚顺</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">中卫</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">镇江</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">河北省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">盘锦</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.4</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">青海省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">扬州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.5</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">石家庄</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">鞍山</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">西宁</font></td><td class="xl26" width="72"><font size="2" face="宋体">16.4</font></td><td class="xl28" width="72"><font size="2" face="宋体">南通</font></td><td class="xl29" width="72"><font size="2" face="宋体">28.7</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">保定</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.9</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">吉林省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">共和</font></td><td class="xl26" width="72"><font size="2" face="宋体">14.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">常州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.2</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">唐山</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">长春</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">格尔木</font></td><td class="xl26" width="72"><font size="2" face="宋体">12.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">苏州</font></td><td class="xl28" width="72"><font size="2" face="宋体">28.6</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">承德</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">四平</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">乌图美仁</font></td><td class="xl26" width="72"><font size="2" face="宋体">12.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">无锡</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.4</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">邯郸</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">延吉</font></td><td class="xl26" width="72"><font size="2" face="宋体">24</font></td><td class="xl26" width="72"><font size="2" face="宋体">玉树</font></td><td class="xl26" width="72"><font size="2" face="宋体">12.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">盐城</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">张家口</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">通化</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">扎多</font></td><td class="xl26" width="72"><font size="2" face="宋体">10.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">高邮</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.5</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">秦皇岛</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">双辽</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.7</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">新疆</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">泰州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.3</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">邢台</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">松江</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">乌鲁木齐</font></td><td class="xl26" width="72"><font size="2" face="宋体">18.7</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">安徽省</font></strong></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">山西省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">长白</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">伊宁</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">合肥</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.2</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">太原</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.3</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">黑龙江省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">吐鲁番</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">蛙埠</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.1</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">运城</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">哈尔滨</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">哈密</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">安庆</font></td><td class="xl28" width="72"><font size="2" face="宋体">28.1</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">大同</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">海伦</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">喀什</font></td><td class="xl26" width="72"><font size="2" face="宋体">20</font></td><td class="xl26" width="72"><font size="2" face="宋体">毫县</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.8</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">长治</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">齐齐哈尔</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">和田</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">芜湖</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.3</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">临汾</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">牡丹江</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">鄯善</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">巢湖</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">侯马</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">佳木斯</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">库尔勒</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">铜陵</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.9</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">阳泉</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.4</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">陕西省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">石河子</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">屯溪</font></td><td class="xl26" width="72"><font size="2" face="宋体">37.5</font></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">内蒙古</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">西安</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">克拉玛依</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">阜阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.3</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">呼和浩特</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">榆林</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.7</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">山东省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">黄山</font></td><td class="xl26" width="72"><font size="2" face="宋体">18.7</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">锡林浩特</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">延安</font></td><td class="xl26" width="72"><font size="2" face="宋体">23</font></td><td class="xl26" width="72"><font size="2" face="宋体">济南</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">浙江省</font></strong></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">磴口</font></td><td class="xl26" width="72"><font size="2" face="宋体">21</font></td><td class="xl26" width="72"><font size="2" face="宋体">略阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">潍坊</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">杭州</font></td><td class="xl28" width="72"><font size="2" face="宋体">28.6</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">博克图</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">汉中</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">青岛</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">定海</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.8</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">赤峰</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.5</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">甘肃省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">菏泽</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">衢县</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.9</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">集宁</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">兰州</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">龙口</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">温州</font></td><td class="xl28" width="72"><font size="2" face="宋体">28.7</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">海拉尔</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">敦煌</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">烟台</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">嘉兴</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.7</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">通辽</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">酒泉</font></td><td class="xl26" width="72"><font size="2" face="宋体">18.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">惠民</font></td><td class="xl26" width="72"><font size="2" face="宋体">27</font></td><td class="xl26" width="72"><font size="2" face="宋体">绍兴</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.8</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">乌兰浩特</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">山丹</font></td><td class="xl26" width="72"><font size="2" face="宋体">17.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">德州</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">宁波</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.3</font></td></tr><tr height="36"><td class="xl22" height="36" colspan="3"><strong><font size="2" face="宋体">湿球温度表</font></strong></td><td class="xl23"><strong><font size="2" face="宋体" /></strong></td><td class="xl23"><strong><font size="2" face="宋体" /></strong></td><td class="xl23"><strong><font size="2" face="宋体" /></strong></td><td class="xl23"><strong><font size="2" face="宋体" /></strong></td><td class="xl23"><strong><font size="2" face="宋体" /></strong></td></tr><tr height="20"><td class="xl24" height="20" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td><td class="xl30" width="72"><font size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">地名</font></td><td class="xl25" width="72"><font color="#ff0000" size="2" face="宋体">湿球温度</font></td></tr><tr height="19"><td class="xl34" height="19" width="144" colspan="2"><strong><font size="2" face="宋体">江西省</font></strong></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">湖南省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">宜宾</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">日喀则</font></td><td class="xl26" width="72"><font size="2" face="宋体">12.3</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">南昌</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">长沙</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">西昌</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.7</font></td><td class="xl28" width="72"><font size="2" face="宋体">昌都</font></td><td class="xl28" width="72"><font size="2" face="宋体">14.8</font></td></tr><tr height="19"><td class="xl27" height="19" width="72"><font size="2" face="宋体">景德镇</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">藏江</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">甘孜</font></td><td class="xl26" width="72"><font size="2" face="宋体">14.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">葛尔</font></td><td class="xl26" width="72"><font size="2" face="宋体">9</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">吉安</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">零陵</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">南充</font></td><td class="xl26" width="72"><font size="2" face="宋体">27</font></td><td class="xl26" width="72"><font size="2" face="宋体">张家港</font></td><td class="xl31" width="72"><font size="2" face="宋体">28</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">赣州</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">常德</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">渡口</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">九江</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">株洲</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">自贡</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">宜春</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">湘潭</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">乐山</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">萍乡</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">邵阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">泸州</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">庐山</font></td><td class="xl26" width="72"><font size="2" face="宋体">23</font></td><td class="xl26" width="72"><font size="2" face="宋体">郴州</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">剑阁</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl34" height="20" width="144" colspan="2"><strong><font size="2" face="宋体">福建省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">岳阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">锦阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">福州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">益阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">广元</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">永安</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">沅陵</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">达县</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">长汀</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">韶山</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">峨眉山</font></td><td class="xl26" width="72"><font size="2" face="宋体">13</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">漳州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">衡阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.4</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">贵州省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">厦门</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">南岳</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">贵阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">23</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">南平</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.3</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">广东省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">兴仁</font></td><td class="xl26" width="72"><font size="2" face="宋体">22.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl34" height="20" width="144" colspan="2"><strong><font size="2" face="宋体">台湾省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">广州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">遵义</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">台北</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">阳江</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">毕节</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl34" height="20" width="144" colspan="2"><strong><font size="2" face="宋体">河南省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">海口</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">赤水</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">郑州</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">韶关</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">习水</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">卢氏</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">汕头</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">金沙</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">驻马店</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">宝安</font></td><td class="xl26" width="72"><font size="2" face="宋体">27</font></td><td class="xl26" width="72"><font size="2" face="宋体">凯里</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">信阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">茂名</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">都匀</font></td><td class="xl26" width="72"><font size="2" face="宋体">23.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">安阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">湛江</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">安顺</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">新乡</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">琼海</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.5</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">云南省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">开封</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">西沙</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">昆明</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl33" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">南阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.8</font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">广西</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">蒙自</font></td><td class="xl26" width="72"><font size="2" face="宋体">21.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">平顶山</font></td><td class="xl26" width="72"><font size="2" face="宋体">28</font></td><td class="xl26" width="72"><font size="2" face="宋体">南宁</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">楚雄</font></td><td class="xl26" width="72"><font size="2" face="宋体">19.8</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">三门峡</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">桂林</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">瑞丽</font></td><td class="xl26" width="72"><font size="2" face="宋体">24.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl34" height="20" width="144" colspan="2"><strong><font size="2" face="宋体">湖北省</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">百色</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">景洪</font></td><td class="xl26" width="72"><font size="2" face="宋体">25.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">武汉</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">梧州</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">大理</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">光化</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">北海</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">下关</font></td><td class="xl26" width="72"><font size="2" face="宋体">18.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">宜昌</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.2</font></td><td class="xl26" width="72"><font size="2" face="宋体">钦州</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.9</font></td><td class="xl26" width="72"><font size="2" face="宋体">腾冲</font></td><td class="xl26" width="72"><font size="2" face="宋体">20.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">恩施</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.4</font></td><td class="xl26" width="72"><font size="2" face="宋体">玉林</font></td><td class="xl26" width="72"><font size="2" face="宋体">27.1</font></td><td class="xl26" width="72"><font size="2" face="宋体">勐腊</font></td><td class="xl26" width="72"><font size="2" face="宋体">25</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">襄阳</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.1</font></td><td class="xl34" width="144" colspan="2"><font size="2" face="宋体"><strong>四川省</strong></font></td><td class="xl34" width="144" colspan="2"><strong><font size="2" face="宋体">西藏</font></strong></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">荆州</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.6</font></td><td class="xl26" width="72"><font size="2" face="宋体">成都</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">拉萨</font></td><td class="xl26" width="72"><font size="2" face="宋体">13.5</font></td><td class="xl28" width="72"><font size="2" face="宋体">　</font></td><td class="xl32" width="72"><font size="2" face="宋体">　</font></td></tr><tr height="20"><td class="xl27" height="20" width="72"><font size="2" face="宋体">黄石</font></td><td class="xl26" width="72"><font size="2" face="宋体">28.5</font></td><td class="xl26" width="72"><font size="2" face="宋体">重庆</font></td><td class="xl26" width="72"><font size="2" face="宋体">26.7</font></td><td class="xl26" width="72"><font size="2" face="宋体">林芝</font></td><td class="xl26" width="72"><font size="2" face="宋体">15.3</font></td><td class="xl26" width="72"><font size="2" face="宋体">　</font></td><td class="xl31" width="72"><font size="2" face="宋体">　</font></td></tr></table>
+</div>
+
+<div style="width:720px; height:auto; margin:0px auto; padding:20px;line-height:22px;" align="center">
+<input type="button" name="Submit" value=" 返 回 列 表 " style="border:1px solid #cccccc; background:#6f8290; cursor:hand;" onclick="window.location='news.asp'"/>
+</div>
+
+
+</div>
+
+</div>
+<!--end right-->
+
+
+
+</div>
+<!--end main-->
+
+<body onselectstart="return false;" oncontextmenu="return false;">
+<div style="width:1002px; height:10px; margin:0px auto; clear:both;"></div>
+<div style="width:1002px; height:33px; margin:0px auto; clear:both;">
+<div style="width:13px; height:33px; float:left;"><img src="images/main_37s.jpg" /></div>
+<div style="width:522px; height:23px; padding-top:10px; background:#eeeeee; float:left;"><a href="default.htm">首 页</a> | <a href="products.asp">产品中心</a>| <a href="aboutus.asp">关于万享</a>| <a href="cases.asp">工程案例</a>| <a href="service.asp@id=124">售后服务</a>| <a href="default.htm" target="_blank">冷却塔</a> 
+  <a href="default.htm" target="_blank">闭式冷却塔</a> | <a href="../www.hose-k.com/default.htm" target="_blank"></a></div>
+  <div style="width:400px; height:23px; padding-top:10px; background:#eeeeee; float:left; font-family:Arial, Helvetica, sans-serif;" align="right"><font color="#999999">Copyright 
+    &copy; 万享冷却设备版权所有 沪ICP备11018917号</font></div>
+  <div style="width:67px; height:33px; float:right;"><font color="#999999"><img src="images/main_5F40s.jpg" /></font></div>
+</div>
+<div style="width:1002px; height:10px; margin:0px auto; clear:both;"> <br>
+  <br>
+  <table width="1002" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td align="right">
+
+        </font></a></td>
+    </tr>
+  </table>
+</div>
+
+</body>
+</html>
